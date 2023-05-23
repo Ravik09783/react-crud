@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Ravi",
+      "email": "ravi@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Deepak",
+      "email": "deepak@gmail.com"
+    },
+    {
+      "name": "Vishal ",
+      "email": "vishal@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "John",
+      "email": "abc@gmail.com",
+      "id": 4
+    }
+  ]
+}
